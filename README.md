@@ -21,8 +21,6 @@ features :
     <ul>
       <h6>Only requirement is to add APP_ID of your add from facebook developer console into the /android/app/src/main/res/values/strings.xml </h6>
       
-      <p>
         <string name="facebook_app_id">APP_ID</string>
-      </p>
-  </ul>
+      </ul>
 </li>
