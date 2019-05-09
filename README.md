@@ -20,7 +20,6 @@ features :
   Facebook Sdk linked to carry out facebook login proccess
     <ul>
       <h6>Only requirement is to add APP_ID of your add from facebook developer console into the /android/app/src/main/res/values/strings.xml </h6>
-      
-        <string name="facebook_app_id">APP_ID</string>
-      </ul>
+      </ul>    
+        &ltstring name="facebook_app_id"&gtAPP_ID&lt/string&gt  
 </li>
